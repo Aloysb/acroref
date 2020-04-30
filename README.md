@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -97,3 +98,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+# acroref
+The encyclopedia of paragliding acro tricks
+>>>>>>> 1ea1e7d1734100ae74e81c281ef229ea66782473
